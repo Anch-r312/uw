@@ -1,0 +1,146 @@
+*{
+	background-color: #0a5c11;
+	font-family: tektur;
+	color: white;
+}
+#indexheader{
+	height: 20vh;
+	width: 100%;
+	background-color: #00000080;
+	display: flex;
+}
+#indexnav{
+	height: 100%;
+	width: 50%;
+	background-color: #00000000;
+	align-items: center;
+	justify-content: center;
+	display: flex;
+}
+#indexnav a{
+	color: white;
+	text-decoration: none;
+	font-size: 20pt;
+	margin-right: 10px;
+	margin-left: 10px;
+	background-color: #00000000;
+}
+#indexnav a:hover{
+	font-size: 21pt;
+	text-decoration: underline;
+	transition: 1s;
+}
+#indexm1{
+	height: 100px;
+	width: 50%;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	display: flex;
+	font-size: 17pt;
+	letter-spacing: 3px;
+}
+#im1center{
+	background-color: #00000080;
+	border-radius: 25px;
+}
+#im1ctext{
+	background-color: #00000000;
+}
+#indexm2{
+	align-items: center;
+	justify-content:center;
+	display: flex;
+	height: 450px;
+	width: 90%;
+	color: white;
+}
+#im2left{
+	height: 100%;
+	width: 50%;
+	font-size: 15pt;
+	letter-spacing: 3px;
+	background-color: #00000080;
+	border-top-left-radius: 25px;
+	border-bottom-left-radius: 25px;
+}
+#im2left h3{
+	background-color: #00000000;
+}
+#im2left p{
+	background-color: #00000000;
+}
+#im2left p i{
+	background-color: #00000000;
+}
+#im2right{
+	height: 100%;
+	width: 50%;
+}
+#im2rightimg{
+	border-top-right-radius: 25px;
+	border-bottom-right-radius: 25px;
+}
+#indexm3{
+	align-items: center;
+	justify-content: center;
+	display: flex;
+	height: 450px;
+	width: 90%;
+	color: white;
+}
+#im3left{
+	height: 100%;
+	width: 50%;
+}
+#im3leftimg{
+	border-bottom-left-radius: 25px;
+	border-top-left-radius: 25px;
+}
+#im3right{
+	height: 100%;
+	width: 50%;
+	font-size: 15pt;
+	letter-spacing: 3px;
+	background-color: #00000080;
+	align-items: center;
+	justify-content: center;
+	display: flex;
+	border-top-right-radius: 25px;
+	border-bottom-right-radius: 25px;
+}
+#im3right p{
+	background-color: #00000000;
+}
+#iftxt{
+	font-size: 15pt;
+	letter-spacing: 3px;
+	color: white;
+}
+#modslist{
+	color: white;
+	font-size: 17pt;
+	letter-spacing: 3px;
+	line-height: 40px;
+}
+#button1{
+	border: solid 1px white;
+	cursor: pointer;
+}
+#info1{
+	font-size: 15pt;
+	letter-spacing: 2px;
+	line-height: 30px;
+	font-weight: light;
+}
+#tacteam{
+	height: 170px;
+	width: 100%;
+	display: flex;
+}
+#tach1{
+	margin-left: 10px;
+}
+#tacmain{
+	background-color: black;
+}
